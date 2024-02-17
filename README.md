@@ -1,4 +1,3 @@
-Overview
 This Python-based Crypto Web Scraper application is designed to fetch real-time cryptocurrency prices from CoinMarkCap.
 It offers seamless integration with Google Sheets for easy tracking of cryptocurrency prices.
 
